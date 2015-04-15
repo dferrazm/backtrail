@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Daniel Ferraz"]
   s.email       = ["d.ferrazm@gmail.com"]
   s.homepage    = "https://github.com/dferrazm/backtrail"
-  s.summary     = "Keep a trail of requests for your Rails application"
-  s.description = "Keep a trail of requests for your Rails application"
+  s.summary     = "Keep a trail of request paths for your Rails application"
+  s.description = "Keep a trail of request paths for your Rails application"
   s.license     = "MIT"
 
   s.files         = `git ls-files`.split($/)
