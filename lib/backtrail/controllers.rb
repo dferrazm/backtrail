@@ -3,8 +3,7 @@ module Backtrail
     extend ActiveSupport::Concern
 
     included do
-      # TODO: before_action
-      before_filter :update_previous_paths
+      before_action :update_previous_paths
       helper_method :previous_path
     end
 
