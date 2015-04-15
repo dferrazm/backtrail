@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Backtrail::VERSION
   s.authors     = ["Daniel Ferraz"]
   s.email       = ["d.ferrazm@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO"
-  s.description = "TODO"
+  s.homepage    = "https://github.com/dferrazm/backtrail"
+  s.summary     = "Keep a trail of requests for your Rails application"
+  s.description = "Keep a trail of requests for your Rails application"
   s.license     = "MIT"
 
   s.files         = `git ls-files`.split($/)
