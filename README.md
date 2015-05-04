@@ -1,5 +1,6 @@
 # Backtrail
 [![Code Climate](https://codeclimate.com/github/dferrazm/backtrail/badges/gpa.svg)](https://codeclimate.com/github/dferrazm/backtrail)
+[![Build Status](https://travis-ci.org/dferrazm/backtrail.svg?branch=master)](https://travis-ci.org/dferrazm/backtrail)
 
 Keep a trail of request paths for your Rails application
 
